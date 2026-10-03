@@ -1,8 +1,8 @@
-# Hey, soy Enrique 👋
+# Hola! soy Enrique 👋
 
-Full-stack developer que disfruta construyendo cosas que la gente usa. Actualmente metido con **hobbieConnect** — una plataforma para conectar cinéfilos — y explorando el mundo de Spring Boot y React.
+Software Engineer que disfruta construyendo cosas para mi uso personal. Actualmente liado con **hobbieConnect** — una plataforma para conseguir recomendaciones de multiples ambitos artísticos — y explorando el mundo de la programación.
 
-Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber visto hace años.
+Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber visto hace años o jugando a las cartitas brillantes con mis amigos.
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@ Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber
 
 | Proyecto | Qué es | Stack |
 |----------|--------|-------|
-| hobbieConnect 🔒 | Conectando cinéfilos (privado) | Java, Spring Boot, PostgreSQL |
+| hobbieConnect 🔒 | Conectando gustos (privado) | Java, Spring Boot, PostgreSQL, Kotlin y Swift |
 | [focusOnSteroids](https://github.com/egonboz/focusOnSteroids) | App de productividad | TypeScript |
 | [xpsRiftboundApp](https://github.com/egonboz/xpsRiftboundApp) | Aplicación web | TypeScript |
 | [Custom Hooks](https://github.com/egonboz/egonbozCustomHooks) | Hooks reutilizables para React | JavaScript |
