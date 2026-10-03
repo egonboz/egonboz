@@ -22,7 +22,7 @@ Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber
 | [focusOnSteroids](https://github.com/egonboz/focusOnSteroids) | App de productividad | TypeScript |
 | [xpsRiftboundApp](https://github.com/egonboz/xpsRiftboundApp) | Aplicación web | TypeScript |
 | [Custom Hooks](https://github.com/egonboz/egonbozCustomHooks) | Hooks reutilizables para React | JavaScript |
-| [Portfolio](https://github.com/egonboz/portfolio) | Mi portfolio personal | TypeScript |
+| [Portfolio](https://egonboz.github.io/portfolio/) | Mi portfolio personal | TypeScript |
 
 ## 📊 GitHub Stats
 
@@ -33,4 +33,4 @@ Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber
 ## 📫 Hablemos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-gonzalez-boza/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/egonboz/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://egonboz.github.io/portfolio/)
