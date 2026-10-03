@@ -1,5 +1,7 @@
 # Hola! soy Enrique 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer;Building+hobbieConnect+%F0%9F%8E%AC;Movie+lover+%26+card+game+enthusiast)](https://git.io/typing-svg)
+
 Software Engineer que disfruta construyendo cosas para mi uso personal. Actualmente liado con **hobbieConnect** — una plataforma para conseguir recomendaciones de multiples ambitos artísticos — y explorando el mundo de la programación.
 
 Cuando no estoy codeando, probablemente estoy viendo una peli que debería haber visto hace años o jugando a las cartitas brillantes con mis amigos.
